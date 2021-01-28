@@ -1,25 +1,44 @@
-The notebook contains the code for Part1 & Part 2 of the financial planner excercise.
+The notebook - financial-planner.ipynb contains the code for Part 1 - Personal Financial Planner and Part 2 - Retirement Planning of the excercise.
 
+# 1) Financial Planner 
+For the part 1- the portfolio of Bitcoins and Stocks hae engough balance in emergency fund. 
+Pie chart & figure is saed in Github foler. 
 
-1) 5 year retirement 
+# 2) Part 2 - Retirement planning
+a) 
+For 30 year retiremet period will following allocation of SPY( Stocks) & AGG (bonds), initial invetments fo $20K and $30K expected to grow upto $1.256 MM & $1.884 MM respectively on Upper side, while on lower side it is expected to grow to $99K & 149K respectively. 
+
 Allocation 
 spy = 0.60
 agg = 0.40
 
+There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $99491.59 and $1256334.25
+There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 30 years will end within in the range of $149237.39 and $1884501.37
+
+# Optional Chelleng - Early Retirement: 
+# b) 5 year retirement period: 
+It is observed that as we increase the allocation of Stock in portfolio proodes higher gorwth. However, to reach similar amount of financial goal of  30 years retirement plan the initial investment in five plan has to be about 40 times higher ($800,000) with 60% allocation in stocks.
+
+Allocation 
+spy = 0.60
+agg = 0.40
 There is a 95% chance that an initial investment of $20000 in the portfolio over the next 5 years will end within in the range of $20026.03 and $52498.55
 There is a 95% chance that an initial investment of $200000 in the portfolio over the next 5 years will end within in the range of $200260.3 and $524985.48
+There is a 95% chance that an initial investment of $800000 in the portfolio over the next 5 years will end within in the range of $801041.18 and $2099941.93
+
 
 
 Allocation 
 spy = 0.95
 agg = 0.05
-There is a 95% chance that an initial investment of $200000 in the portfolio over the next 5 years will end within in the range of $174441.42 and $865374.18
 
+There is a 95% chance that an initial investment of $200000 in the portfolio over the next 5 years will end within in the range of $174441.42 and $865374.18
 There is a 95% chance that an initial investment of $20000 in the portfolio over the next 5 years will end within in the range of $17444.14 and $86537.42
 
 
+# c) 10 year retirement period : 
+It is observed that as we increase the allocation of Stock in portfolio proodes higher gorwth. However, to reach same amount of financial goal of  30 years retirement plan the initial investment in five plan has to be atleast 30 to 40 times higher ( $300,000 to $400,000). 
 
-1) 10 year retirement 
 Allocation 
 spy = 0.60
 agg = 0.40
@@ -56,12 +75,5 @@ There is a 95% chance that an initial investment of $400000 in the portfolio ove
 There is a 95% chance that an initial investment of $800000 in the portfolio over the next 10 years will end within in the range of $863941.11 and $1683166.81
 
 
-3) 30 year retiremet: 
-Allocation 
-spy = 0.60
-agg = 0.40
-
-There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $99491.59 and $1256334.25
-There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 30 years will end within in the range of $149237.39 and $1884501.37
 
 
