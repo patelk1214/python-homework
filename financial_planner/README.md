@@ -4,6 +4,12 @@ The notebook - financial-planner.ipynb contains the code for Part 1 - Personal F
 For the part 1- the portfolio of Bitcoins and Stocks have enough balance in emergency fund. 
 Pie chart & figure are saved in Github folder. 
 
+          amount
+asset 	
+crypto 	41233.185
+shares 	42728.000
+
+
 # 2) Part 2 - Retirement planning
 a) 
 For 30 year retirement period following allocations in SPY( Stocks) & AGG (bonds), with initial invetments of $20K and $30K is expected to grow upto $1.256 MM & $1.884 MM respectively on Upper side. While on lower side, $20K & $30K initial investment is expected to grow to $99K & 149K respectively. 
