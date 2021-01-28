@@ -1,12 +1,12 @@
 The notebook - financial-planner.ipynb contains the code for Part 1 - Personal Financial Planner and Part 2 - Retirement Planning of the excercise.
 
 # 1) Financial Planner 
-For the part 1- the portfolio of Bitcoins and Stocks hae engough balance in emergency fund. 
-Pie chart & figure is saed in Github foler. 
+For the part 1- the portfolio of Bitcoins and Stocks have enough balance in emergency fund. 
+Pie chart & figure are saved in Github folder. 
 
 # 2) Part 2 - Retirement planning
 a) 
-For 30 year retiremet period will following allocation of SPY( Stocks) & AGG (bonds), initial invetments fo $20K and $30K expected to grow upto $1.256 MM & $1.884 MM respectively on Upper side, while on lower side it is expected to grow to $99K & 149K respectively. 
+For 30 year retirement period following allocations in SPY( Stocks) & AGG (bonds), with initial invetments of $20K and $30K is expected to grow upto $1.256 MM & $1.884 MM respectively on Upper side. While on lower side, $20K & $30K initial investment is expected to grow to $99K & 149K respectively. 
 
 Allocation 
 spy = 0.60
@@ -15,9 +15,10 @@ agg = 0.40
 There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $99491.59 and $1256334.25
 There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 30 years will end within in the range of $149237.39 and $1884501.37
 
+
 # Optional Chelleng - Early Retirement: 
 # b) 5 year retirement period: 
-It is observed that as we increase the allocation of Stock in portfolio proodes higher gorwth. However, to reach similar amount of financial goal of  30 years retirement plan the initial investment in five plan has to be about 40 times higher ($800,000) with 60% allocation in stocks.
+It is observed that as we increase the allocation of Stock in portfolio, it provides higher gorwth at end of 5 year period. However, to reach similar amount of financial goal as in 30 years retirement plan, the initial investment in five plan has to be about 40 times higher ($800,000) with 60% allocation in stocks, which is expected to grow up $2.09 MM on upper side.
 
 Allocation 
 spy = 0.60
@@ -37,7 +38,7 @@ There is a 95% chance that an initial investment of $20000 in the portfolio over
 
 
 # c) 10 year retirement period : 
-It is observed that as we increase the allocation of Stock in portfolio proodes higher gorwth. However, to reach same amount of financial goal of  30 years retirement plan the initial investment in five plan has to be atleast 30 to 40 times higher ( $300,000 to $400,000). 
+It is observed that as we increase the allocation of Stock in portfolio, it provides higher growth. However, to reach same amount of financial goal as in 30 years retirement plan the initial investment in 10 year plan has to be atleast 30 to 40 times higher ($300,000 to $400,000). Upper and lower range of few allocations and initial investments given below for 10 years retirement plan. 
 
 Allocation 
 spy = 0.60
