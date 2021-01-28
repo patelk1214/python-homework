@@ -1,4 +1,4 @@
-The notebook - financial-planner.ipynb contains the code for Part 1 - Personal Financial Planner and Part 2 - Retirement Planning of the excercise.
+The notebook - financial-planner.ipynb contains the code for Part 1 - Personal Financial Planner and Part 2 - Retirement Planning excercise.
 
 # 1) Financial Planner 
 For the part 1- the portfolio of Bitcoins and Stocks have enough balance in emergency fund. 
