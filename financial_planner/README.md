@@ -7,6 +7,7 @@ Pie chart & figure are saved in Github folder.
           amount
 asset 	
 crypto 	41233.185
+
 shares 	42728.000
 
 
