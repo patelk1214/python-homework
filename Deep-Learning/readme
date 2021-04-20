@@ -1,0 +1,23 @@
+
+In each Jupyter Notebook, same custom LSTM RNN architecture model is build. As required in HW, one notebook the model is fitted with FNG values. 
+In the second notebook, the modle is fitted with closing prices data.
+
+1) Which model has a lower loss?
+Ans - Model with with Closing prices has lower loss. 
+
+    Evaluation of Model with with Closing prices: 
+    5/5 [==============================] - 1s 3ms/step - loss: 0.0601
+
+    0.060083068907260895
+
+    Evaluation of Model with with FNG values
+    5/5 [==============================] - 1s 0s/step - loss: 0.1142
+
+    0.11415214836597443
+
+2) Which model tracks the actual values better over time?
+Ans = The model with the CLosing Price data trackes the actual clsoing price better than the model with FNG values. Though the actual values were having 
+different but the Trend was same between actual and predicted values from model fitted with closing prices. 
+
+3) Which window size works best for the model?
+Ans - window size between 30-35 wroks well with the model fitted with Closing price. For FNG values model, wondow size 30 gave better results.  
