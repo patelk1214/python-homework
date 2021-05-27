@@ -1,22 +1,23 @@
 
-Running POA Blockchain: 
+**Running POA Blockchain: **
 
 To do this, you will create and submit four deliverables:
 
 Set up your custom testnet blockchain: 
-  1. Created Blockchain network- poablkchain using ./puppeth 
+  1. Created Blockchain network- **poablkchain** using ./puppeth with proof of authority seclection
   2. Node3 & Node 4 were created. Node 3 was set to be minning Node.  
 
 Aftger following the steps reccomended in Resources folder, test transaction was sent. 
+The Nodes were added to MyCrypto (screenshots saved in Screenshots_(PoA) folder
 
 Create a repository: Created POA_Blockchain repo 
-All the Screenshots are saved in ./Blockchain-Tools/Screenshots_(PoA) folder.
+**All the Screenshots are saved in ./Blockchain-Tools/Screenshots_(PoA) folder.**
+
+
 
 ******************* =================================== ***********************
 
-Write instructions on how to use the chain for the rest of your team.
-
-**Steps followed to Set up and run Proof of Authority Blockchain: **
+** Steps followed to Set up and run Proof of Authority Blockchain: **
 
 The Proof of Authority (PoA) algorithm is typically used for private blockchain networks as it requires pre-approval of, or voting in of, the account addresses that can approve transactions (seal blocks).
 
